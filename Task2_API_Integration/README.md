@@ -13,7 +13,7 @@ Tasks Performed
 Files Included
 1 api_fetch.py
 2 README.md
-3 screenshots/
+3 screenshot
 
 Insights
 1 Utilizing live parameters allows immediate tracking of global real-time information rather than working with stagnant data pools.
